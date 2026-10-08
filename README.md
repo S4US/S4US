@@ -32,4 +32,3 @@ Builds, scripts and playtests inside Roblox Studio using your own ChatGPT/Claude
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=lua&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-000000?style=flat-square&logo=robloxstudio&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
